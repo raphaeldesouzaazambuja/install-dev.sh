@@ -16,6 +16,7 @@ npm install -g @vue/cli;
 # installing Ruby
 sudo apt install ruby-full;
 sudo apt install -y gems;
+sudo apt install libyaml-dev;
 gem install rails;
 gem install sinatra;
 
